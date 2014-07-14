@@ -1,0 +1,13 @@
+{
+    "name":             "dinhtuan/training",
+    "description":      "php training.",
+    "time":             "1963-09-01",
+    "license":          "MIT",
+    "authors": [
+        {
+            "name":         "Dinh Tuan",
+            "email":        "dinhanhtuan24@gmail.com",
+            "role":         "Genius"
+        }
+    ]
+}
